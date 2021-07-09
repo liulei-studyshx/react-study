@@ -34,7 +34,7 @@ const themes = {
 };
 //react中的状态共享的几种方式
 
-
+console.log(1111)
 const ThemeContext = React.createContext(themes.light);
 
 function App() {
